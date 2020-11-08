@@ -1,5 +1,3 @@
-# BestBuyMonitor
-Best Buy Discord Sku monitor
 [![N|Solid](https://media.discordapp.net/attachments/735590383396061234/775049214824546325/michaelpa.png)](https://twitter.com/michaelpa_WMG)
 # Best Buy Monitor
 
