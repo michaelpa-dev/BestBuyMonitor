@@ -28,7 +28,7 @@ npm install
   - In the array of `Skus` paste all of the Skus of the items that you wish to observe comma seperated 
     - it should look something like this `"Skus":[6429434,6437910,6432447,6430623,6436192,6434363,6428846, 6429440],`
   - Open up your favorite console application and navigate to the project.
-  - A default `interval` of 10 sseconds is applied.
+  - A default `interval` of 10 seconds is applied.
 
 `Webhook:` Discord webhook url where all notifications sent from the monitor will go.
 `Skus:` A comma seperated collection of all the items you want monitored.
